@@ -1,4 +1,4 @@
-package com.example.hubspot_integration;
+package com.example.hubspot.integration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

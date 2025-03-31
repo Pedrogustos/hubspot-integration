@@ -1,4 +1,4 @@
-package com.example.hubspot_integration;
+package com.example.hubspot.integration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

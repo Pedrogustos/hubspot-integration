@@ -1,0 +1,8 @@
+hubspot:
+  oauth:
+    client:
+      id: ${HUBSPOT_CLIENT_ID}  # Replace with your client ID
+      secret: ${HUBSPOT_CLIENT_SECRET}  # Replace with your client secret
+    redirect:
+      uri: ${HUBSPOT_REDIRECT_URI}  # Replace with your redirect URI
+    scope: ${HUBSPOT_SCOPE}  # Replace with the necessary scopes, e.g., crm.objects.contacts.read crm.objects.contacts.write
